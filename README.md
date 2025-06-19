@@ -28,10 +28,10 @@ Welcome! This portfolio showcases hands-on data analysis and visualization proje
 
 ---
 
-### 3. SQL Project – U.S. Tech Layoffs
+### 3. SQL Project – Corporate Layoffs
 
 **Tools:** MySQL, CTEs, Window Functions  
-- Cleaned and standardized a U.S. layoffs dataset with missing and inconsistent values.
+- Cleaned and standardized a layoffs dataset with missing and inconsistent values.
 - Used CTEs, row numbering, and `STR_TO_DATE()` for accurate date formatting and duplication removal.
 - Performed exploratory queries to identify trends by company, industry, and region.
 

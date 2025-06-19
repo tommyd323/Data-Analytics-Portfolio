@@ -17,3 +17,6 @@ This project uses SQL to clean and analyze a dataset of tech layoffs across the 
 - CTEs, window functions
 - Data cleaning and transformation
 - EDA using SQL queries
+
+![Layoffs_Data_Cleaning](https://github.com/user-attachments/assets/3e256f0d-7368-4355-b6ca-1260de48bffa) ![Layoffs_Data_Analysis](https://github.com/user-attachments/assets/438b6f9a-d1c0-4590-af4f-0cfd90dd81bc)
+

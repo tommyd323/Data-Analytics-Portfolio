@@ -1,5 +1,3 @@
-# Data-Analytics-Portfolio
-Portfolio of data analysis and visualization projects using SQL, Excel, Power BI, and more
 # Data Analytics Portfolio
 
 This portfolio highlights projects I’ve completed to demonstrate practical data analysis skills using **SQL**, **Excel**, and **Power BI**. Each project showcases a key part of the data pipeline: cleaning, exploring, and visualizing real-world datasets. These were completed as part of my learning path to prepare for data analyst roles, using industry-relevant tools and reporting practices.

@@ -36,7 +36,8 @@ This portfolio highlights projects I’ve completed to demonstrate practical dat
 
 **Data Cleaning Example:**
 
-![SQL Cleaning](./Layoffs_Data_Cleaning.png)
+![SQL Cleaning](./Layoffs_Data_Cleaning.png)![Layoffs_Data_Cleaning](https://github.com/user-attachments/assets/e7fb1bb4-910d-4df2-baba-0bb1c391b048)
+
 
 **Exploratory Analysis with Rolling Totals:**
 

@@ -11,3 +11,5 @@ This dashboard analyzes customer data to identify patterns in bike purchases. It
 - Excel (Pivot Tables, Charts, Slicers)
 - Data summarization and filtering
 - Dashboard layout for business presentation
+
+![Bike_Sales_Dashboard](https://github.com/user-attachments/assets/c3bd44bf-6fc4-4252-bc23-f49632a9ab16)

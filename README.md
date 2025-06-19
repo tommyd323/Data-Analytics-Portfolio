@@ -14,7 +14,8 @@ This portfolio highlights projects I’ve completed to demonstrate practical dat
 - Analyzed survey data from over 600 tech professionals to compare salaries, job satisfaction, and work-life balance.
 - Interactive dashboard includes breakdowns by country, job title, difficulty to enter field, and preferred programming language.
 
-![Power BI Dashboard](./Data_Professional_Survey_Dashboard.png)
+![Data_Professional_Survey_Dashboard](https://github.com/user-attachments/assets/cf03b19a-8d36-40ea-844a-526f5fb1aa16)
+
 
 ---
 
@@ -24,7 +25,8 @@ This portfolio highlights projects I’ve completed to demonstrate practical dat
 - Visualized bike purchase patterns by region, gender, education, and commute distance.
 - Created a clean, interactive dashboard to explore how demographics and location affected buying behavior.
 
-![Excel Dashboard](./Bike_Sales_Dashboard.png)
+![Bike_Sales_Dashboard](https://github.com/user-attachments/assets/99857da2-5baa-438b-b814-7706c6babd9a)
+
 
 ---
 
@@ -36,12 +38,12 @@ This portfolio highlights projects I’ve completed to demonstrate practical dat
 
 **Data Cleaning Example:**
 
-![SQL Cleaning](./Layoffs_Data_Cleaning.png)![Layoffs_Data_Cleaning](https://github.com/user-attachments/assets/e7fb1bb4-910d-4df2-baba-0bb1c391b048)
+![Layoffs_Data_Cleaning](https://github.com/user-attachments/assets/e7fb1bb4-910d-4df2-baba-0bb1c391b048)
 
 
 **Exploratory Analysis with Rolling Totals:**
 
-![SQL EDA](./Layoffs_Data_Analysis.png)
+![Layoffs_Data_Analysis](https://github.com/user-attachments/assets/bf11378b-b982-40f0-8c66-7e42b899233d)
 
 ---
 

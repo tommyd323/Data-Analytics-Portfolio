@@ -12,5 +12,5 @@ This project visualizes results from a global survey of data professionals. It e
 - Power BI Desktop
 - DAX calculations
 - Data modeling and relationship management
-- 
+
 ![Data_Professional_Survey_Dashboard](https://github.com/user-attachments/assets/071574ca-d8cb-4563-bb68-b84bbf89be54)

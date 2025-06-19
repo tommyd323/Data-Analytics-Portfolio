@@ -1,6 +1,6 @@
-# SQL Project – U.S. Company Layoffs
+# SQL Project – Corporate Layoffs
 
-This project uses SQL to clean and analyze a dataset of tech layoffs across the United States. The goal is to identify patterns by industry, location, and time.
+This project uses SQL to clean and analyze a dataset of layoffs across the globe. The goal is to identify patterns by industry, location, and time.
 
 ## Data Cleaning Tasks
 - Removed duplicate records using `ROW_NUMBER()`

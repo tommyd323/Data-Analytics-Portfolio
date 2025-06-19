@@ -56,7 +56,7 @@ Hello and welcome! This portfolio showcases my data analysis and visualization p
 ---
 
 ## 🙋‍♂️ About Me
-I'm Tommy, a recent Computer Science graduate with a Business Analytics minor. I built this portfolio to demonstrate job-ready data analysis skills, with a focus on real-world dashboards and reporting workflows. I’m passionate about helping organizations make smarter decisions with data.
+I'm Tommy, a recent Computer Science graduate with a Business Analytics minor. I built this portfolio to demonstrate job-ready data analysis skills, with a focus on real-world dashboards and reporting workflows. I'm passionate about this career path and continually strive to improve my skills. I believe I can contribute to helping organizations make smarter, data-driven decisions.
 
 🔗 GitHub Profile: [github.com/tommyd323](https://github.com/tommyd323)  
-🌐 Web Tool: [PeptiCalc.com](https://www.pepticalc.com) – A dosage calculator I created for GLP-1 peptide tracking
+🌐 Web Tool: [PeptiCalc.com](https://www.pepticalc.com) – A dosage calculator I created for compounded GLP-1 peptide tracking

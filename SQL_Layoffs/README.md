@@ -1,4 +1,4 @@
-# SQL Project – U.S. Tech Layoffs
+# SQL Project – U.S. Company Layoffs
 
 This project uses SQL to clean and analyze a dataset of tech layoffs across the United States. The goal is to identify patterns by industry, location, and time.
 

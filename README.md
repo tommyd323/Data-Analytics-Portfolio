@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome! This portfolio showcases my data analysis and visualization projects completed using **SQL**, **Excel**, and **Power BI**. Each project demonstrates a different part of the data workflow — cleaning, exploration, and dashboard creation — using a variety of datasets.
+Hello and welcome! This portfolio showcases my data analysis and visualization projects completed using **SQL**, **Excel**, and **Power BI**. Each project demonstrates a different part of the data workflow — cleaning, exploration, and dashboard creation — using a variety of datasets.
 
 ---
 
